@@ -1,0 +1,46 @@
+body{
+    background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+}
+button {
+    border-radius: 5%;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.box {
+  overflow-y: scroll;
+  background-color: #221122; 
+  width: 40%;
+  height: 400px;
+  border-radius: 10px;
+  margin: auto;
+  position: relative;
+  top: 25vh;
+  color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.col {
+    font-family: 'Nunito Sans', sans-serif;
+    margin-left: 150px;
+}
+
+.visualization{
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.head{
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+}
+#Display {
+    color: yellow;
+}
+
+#but{
+    margin-left: 40%;
+}
